@@ -1,0 +1,18 @@
+name: ImAnNuvolos202404
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - conda==23.11.0
+  - setuptools=68
+  - pip=24
+  - wheel=0.41
+  - jupyterlab=4.1
+  - scipy=1.12
+  - numpy=1.26
+  - scikit-learn=1.4
+  - pandas=2.2
+  - matplotlib=3.8
+  - pip:
+    - scikit-image==0.23.1
