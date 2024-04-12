@@ -1,4 +1,4 @@
-Repo for the UNIL BSc3 course on image analysis, taught by Ariana Ravera and Jonas Richiardi
+Repo for the UNIL BSc3 course on image analysis, taught by Arianna Ravera and Jonas Richiardi
 
 # Installation
 
