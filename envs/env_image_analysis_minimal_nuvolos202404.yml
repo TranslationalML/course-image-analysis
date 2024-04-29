@@ -15,4 +15,5 @@ dependencies:
   - pandas=2.2
   - matplotlib=3.8
   - pip:
-    - scikit-image==0.23.1
+    - scikit-image==0.23.2
+    - imagecodecs==2024.1
