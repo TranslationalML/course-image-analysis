@@ -1,6 +1,7 @@
 Repo for the University of Lausanne [BSc in Biology](https://www.unil.ch/ecoledebiologie/en/home/menuinst/bachelors/biolog.html) year 3 course 'Introduction to Image Analysis', part of the 'Modelling in Biology and Bioinformatics' module.
 
 Module 1: Arianna Ravera
+
 Module 2: Jonas Richiardi
 
 # Installation
